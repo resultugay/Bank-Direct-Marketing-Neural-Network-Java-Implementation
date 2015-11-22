@@ -1,5 +1,8 @@
 package bank_marketing;
-
+/*
+ * 
+ * Author : resultugay
+ * */
 import java.awt.Color;
 import java.awt.Dimension;
 import java.awt.Toolkit;

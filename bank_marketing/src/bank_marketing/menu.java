@@ -69,7 +69,7 @@ public class menu implements ActionListener{
 			panel.setLayout(null);
 			
 			host = new JTextField();
-			host.setText("ftp.rsltgy.com");
+			host.setText("localhost");
 			host.setSize(100,20);
 			host.setLocation(80, 10);
 			panel.add(host);
@@ -91,7 +91,7 @@ public class menu implements ActionListener{
 			panel.add(tmp2);
 	
 			user_name = new JTextField();
-			user_name.setText("resul");
+			user_name.setText("iris");
 			user_name.setSize(100,20);
 			user_name.setLocation(80, 80);
 			panel.add(user_name);
@@ -102,7 +102,7 @@ public class menu implements ActionListener{
 			panel.add(tmp3);
 			
 			password = new JPasswordField();
-			password.setText("tugay");
+			password.setText("iris");
 			password.setSize(100,20);
 			password.setLocation(80, 120);
 			panel.add(password);
